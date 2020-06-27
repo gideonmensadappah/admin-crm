@@ -1,0 +1,26 @@
+[
+     {"name":"gideon",
+     "age":21,
+     "city":"Tel-aviv",
+     "email":"gideon@gmail.com",
+     "phones":["0539430984"],
+     "avatar": "gideon.png",
+     "birthday": "2001-11-14 00:30:00"
+    },
+    {"name":"nana",
+    "age":22,
+    "city":"Haifa",
+    "email":"nana@gmail.com",
+    "phones":["053940000",
+          "039994949"],
+    "avatar": "nana.png",
+    "birthday":  "2011-10-14 10:00:00"
+   },
+   {"name":"daniel",
+   "age":12,
+   "city":"Eilat",
+   "email":"daniel@gmail.com",
+   "avatar": "daniel.png",
+   "birthday":  "2019-01-04 01:00:30"
+  }
+   ]
